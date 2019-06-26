@@ -36,5 +36,6 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  * Choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
  * Apprendre à utilser git et  github : Tuto GIT pour une prise en main rapide !
 [https://www.hostinger.fr/tutoriels/tuto-git/]
+ * Apprendre les rudiments de la ligne de commande bash shell [https://www.fun-mooc.fr/courses/course-v1:univ-reunion+128001+session01/about]
 
   
