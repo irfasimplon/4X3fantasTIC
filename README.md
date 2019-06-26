@@ -33,4 +33,6 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
 
 ## Ressources pour mener à bien cette mission:
 
+  ** choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
+
   
