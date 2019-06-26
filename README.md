@@ -1,6 +1,7 @@
 # 4fantasTIC
 
 ![Cathedrale](640px-Cathédrale_Notre-Dame_de_Strasbourg_août_2014.jpg)
+
 La cathedrale
 
 Vous alllez ériger une cathédrale( acquérir des compétences numériques "savoir" "savoir être" et "savoir faire")
