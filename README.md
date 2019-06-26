@@ -33,8 +33,8 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
 
 ## Ressources pour mener à bien cette mission:
 
- ** Choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
- ** Apprendre à utilser git et  github : Tuto GIT pour une prise en main rapide !
+ * Choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
+ * Apprendre à utilser git et  github : Tuto GIT pour une prise en main rapide !
 [https://www.hostinger.fr/tutoriels/tuto-git/]
 
   
