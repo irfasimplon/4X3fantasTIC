@@ -17,7 +17,7 @@ Vous êtes à la première étape de la construction de votre cathédrale. Cette
 
 Tout d'abord il vous faut des outils de batisseurs:
 
-* un editeur de code (bluefish, vscode, emacs ou geany)
+* un editeur de code (bluefish, vscode, emacs ou geany, Atom, Brackets, Coda, Vim, etc. ...)
 * un depôt de partage pour votre code (github)
 
 Et d'autre part :
