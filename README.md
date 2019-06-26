@@ -30,3 +30,7 @@ Et par ailleurs :
 * un outil de gestion de projet type Kanban comme trello ou wekan
 * ou un outil de gestion de projet type gantt Gantt project  
 pour suivre aussi bien la progression de vos differents projets que l'évolution de vos compétences.
+
+## Ressources pour mener à bien cette mission:
+
+  
