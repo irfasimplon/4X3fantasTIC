@@ -1,4 +1,9 @@
 # 4fantasTIC
+![La team](4fantastic.jpg)
+
+
+
+
 
 ![Cathedrale](640px-Cathédrale_Notre-Dame_de_Strasbourg_août_2014.jpg)
 
