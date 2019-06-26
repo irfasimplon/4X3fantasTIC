@@ -12,9 +12,9 @@ Vous êtes à la première étape de la construction de votre cathédrale. Cette
 
 Il vous faut des outils de batisseurs:
 
-un editeur de code (bluefish, vscode, emacs ou geany)
-un depôt de partage pour votre code (github)
+* un editeur de code (bluefish, vscode, emacs ou geany)
+* un depôt de partage pour votre code (github)
 Et d'autre part :
 
-vous familiarisez avec la ligne de commande (shell)
-Devenir un adepte des raccourcis clavier pour gagner en productivité et ergonomie
+* vous familiarisez avec la ligne de commande (shell)
+* Devenir un adepte des raccourcis clavier pour gagner en productivité et ergonomie
