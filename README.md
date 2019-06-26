@@ -18,7 +18,7 @@ Vous êtes à la première étape de la construction de votre cathédrale. Cette
 Tout d'abord il vous faut des outils de batisseurs:
 
 * un editeur de code (bluefish, vscode, emacs ou geany, Atom, Brackets, Coda, Vim, etc. ...)
-* un depôt de partage pour votre code (github)
+* un depôt de partage pour votre code (git et github)
 
 Et d'autre part :
 
@@ -33,6 +33,8 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
 
 ## Ressources pour mener à bien cette mission:
 
-  ** choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
+ ** Choisir son éditeur de code: [https://www.alticreation.com/devenir-developpeur-front-end-choisir-un-bon-editeur-de-code/]
+ ** Apprendre à utilser git et  github : Tuto GIT pour une prise en main rapide !
+[https://www.hostinger.fr/tutoriels/tuto-git/]
 
   
