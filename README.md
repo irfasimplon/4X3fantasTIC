@@ -14,6 +14,7 @@ Il vous faut des outils de batisseurs:
 
 * un editeur de code (bluefish, vscode, emacs ou geany)
 * un depôt de partage pour votre code (github)
+
 Et d'autre part :
 
 * vous familiarisez avec la ligne de commande (shell)
