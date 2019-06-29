@@ -48,6 +48,10 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
  
  * Et pour la gestion de projet : [Kanban][https://blog.trello.com/fr/outil-conduite-de-projet]
  
+ # Restitution
+ 
+  A la suite de vos recherches, vous transmettez et confrontez vos découvertes en groupe et les présenterez avec un outil type Google Slides ou Reveal.js (https://slides.com/)
+ 
  ### Votre 1er projet:
  
  1. Planifier votre projet d'acquisition de compétences sur un outil de  gestion de projet Kanban de votre choix.
