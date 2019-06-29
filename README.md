@@ -31,7 +31,7 @@ Et par ailleurs :
 * ou un outil de gestion de projet type gantt Gantt project  
 pour suivre aussi bien la progression de vos differents projets que l'évolution de vos compétences.
 
-Et finalement, pour être constament à jour de votre savoir et savoir faire un outil d'autoamtisation de la veille:
+Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*, un outil d'autoamtisation de la veille:
 
 [Outils pour automatiser la veille](https://www.codeur.com/blog/5-outils-automatiser-veille/)
 
