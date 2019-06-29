@@ -43,6 +43,12 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  * Se debarrasser de sa souris :-) et devenir adepte des rarccourcis clavier : [Raccourcis clavier](raccourcis.pdf)
  
  * Et pour la gestion de projet : [Kanban][https://blog.trello.com/fr/outil-conduite-de-projet]
+ 
+ ### Votre 1er projet:
+ 
+ Planifier votre projet d'acquisition de compétences sur un outil de  gestion de projet Kanban de votre choix.
+ Installer Git sur votre machine et créer un compte Github pour vos différents projets.
+ 
 
   # Phase2: HTML/CSS 09,11/07/2019
   
@@ -60,4 +66,9 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   ## Les bases du CSS :
   
   1. [Introduction au CSS](https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_%C3%A0_CSS)
+  2. [Le tutoriel CSS](https://www.w3schools.com/css/default.asp) A parcourir depuis Home CSS jusqu'à Css boite dimensionnement
+  3. [Exercices CSS] (https://www.w3schools.com/css/exercise.asp)
+  ### L'evaluation 
+   Voici l'évaluation concernant le CSS :
+   [https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Fundamental_CSS_comprehension]
   
