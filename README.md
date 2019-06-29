@@ -89,7 +89,11 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   
   Ressources: 
   
-  Utiliser les Pages Github : * (https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub)
-                              * (https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/)
+  Utiliser les Pages Github : 
+  
+  1. (https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub)
+  2. https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/)
+  
+  
   *Deadline: le 17/07/2019*
   
