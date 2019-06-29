@@ -40,7 +40,7 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  
  [Les commandes de base du shell](commandes_de_bases.pdf) 
  
- * Se debarrasser de sa souris :-) et devenir adepte des rarccourcis clavier : ![Raccourcis clavier](raccourcis.pdf)
+ * Se debarrasser de sa souris :-) et devenir adepte des rarccourcis clavier : [Raccourcis clavier](raccourcis.pdf)
  
  * Et pour la gestion de projet : [Kanban][https://blog.trello.com/fr/outil-conduite-de-projet]
 
