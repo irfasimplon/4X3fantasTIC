@@ -48,4 +48,4 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   
   ## Les bases du HTML:
   
-  1. [Pour commencer :](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML)
+  1. [Introduction au web :](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML)
