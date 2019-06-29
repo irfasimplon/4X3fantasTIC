@@ -9,7 +9,7 @@
 
 La cathedrale
 
-Vous alllez ériger une cathédrale( acquérir des compétences numériques "savoir" "savoir être" et "savoir faire")
+Vous alllez ériger une cathédrale (acquérir des compétences numériques: "savoir" "savoir être" et "savoir faire")
 
 #  Phase1: LA PRAIRIE 01/07/2019
 
@@ -28,10 +28,10 @@ Et d'autre part :
 Et par ailleurs : 
 
 * un outil de gestion de projet type Kanban comme trello ou wekan
-* ou un outil de gestion de projet type gantt Gantt project  
+* ou un outil de gestion de projet type gantt (Gantt project)  
 pour suivre aussi bien la progression de vos differents projets que l'évolution de vos compétences.
 
-Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*, un outil d'autoamtisation de la veille:
+Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*, un outil d'automatisation de la veille:
 
 [Outils pour automatiser la veille](https://www.codeur.com/blog/5-outils-automatiser-veille/)
 
@@ -65,7 +65,7 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
   1. [Introduction au web](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web)
   2. [Introduction au HTML](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML)
   3. [Entrons dans le vif du sujet](https://www.w3schools.com/html/)
-  Vous vous parcourrez le tutoriel depuis HTML HOME jusqu'à HTML API (si si ;-) ) 
+  Vous parcourrez le tutoriel depuis HTML HOME jusqu'à HTML API (si si ;-) ) 
   
   ### Maintenant en tant que batisseurs exerçons nous: 
   
