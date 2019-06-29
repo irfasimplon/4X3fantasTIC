@@ -49,6 +49,8 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  Planifier votre projet d'acquisition de compétences sur un outil de  gestion de projet Kanban de votre choix.
  Installer Git sur votre machine et créer un compte Github pour vos différents projets.
  
+ *Deadline: le 09/07/2019*
+ 
 
   # Phase2: HTML/CSS 09,11/07/2019
   
@@ -77,4 +79,12 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
    Voici l'évaluation concernant le CSS:
    
   [https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Fundamental_CSS_comprehension]
+  
+  # Votre deuxième projet (plus sérieux :-) )
+  
+  Consignes:
+  
+  * Concevoir un CV en HTML/CSS qui pourra servir de PORFOLIO 
+  * Le publier sur Gitub Pages et le partager sur les RS
+  *Deadline: le 17/07/2019*
   
