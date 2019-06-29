@@ -63,7 +63,9 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   
  (https://www.w3schools.com/html/exercise.asp)
   
-  ### L'évaluation: Rédiger une lettre en HTML (https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML/Marking_up_a_letter#%C3%89valuation)
+  ### L'évaluation: Rédiger une lettre en HTML: 
+  
+  (https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML/Marking_up_a_letter#%C3%89valuation)
   
   ## Les bases du CSS :
   
