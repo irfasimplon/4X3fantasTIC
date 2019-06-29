@@ -1,5 +1,5 @@
 # 4fantasTIC
-![La team](4fantastic.jpg)
+![La team](/center-image 4fantastic.jpg)
 
 
 
