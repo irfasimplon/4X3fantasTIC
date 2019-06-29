@@ -59,7 +59,9 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   3. [Entrons dans le vif du sujet](https://www.w3schools.com/html/)
   Vous vous parcourrez le tutoriel depuis HTML HOME jusqu'à HTML API (si si ;-) ) 
   
-  ## Maintenant en tant que batisseurs exerçons nous: (https://www.w3schools.com/html/exercise.asp)
+  ## Maintenant en tant que batisseurs exerçons nous: 
+  
+ (https://www.w3schools.com/html/exercise.asp)
   
   ### L'évaluation: Rédiger une lettre en HTML (https://developer.mozilla.org/fr/docs/Apprendre/HTML/Introduction_%C3%A0_HTML/Marking_up_a_letter#%C3%89valuation)
   
