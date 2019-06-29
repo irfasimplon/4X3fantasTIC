@@ -52,7 +52,7 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  *Deadline: le 09/07/2019*
  
 
-  # Phase2: HTML/CSS 09,11/07/2019
+  # Phase2: HTML/CSS 09,11,12 /07/2019
   
   ## Les bases du HTML:
   
@@ -86,5 +86,10 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   
   * Concevoir un CV en HTML/CSS qui pourra servir de PORFOLIO 
   * Le publier sur Gitub Pages et le partager sur les RS
+  
+  Ressources: 
+  
+  Utiliser les Pages Github : * (https://developer.mozilla.org/fr/docs/Apprendre/Utiliser_les_pages_GitHub)
+                              * (https://putaindecode.io/articles/creer-un-site-web-gratuitement-avec-github-pages/)
   *Deadline: le 17/07/2019*
   
