@@ -46,8 +46,10 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  
  ### Votre 1er projet:
  
- Planifier votre projet d'acquisition de compétences sur un outil de  gestion de projet Kanban de votre choix.
- Installer Git sur votre machine et créer un compte Github pour vos différents projets.
+ 1. Planifier votre projet d'acquisition de compétences sur un outil de  gestion de projet Kanban de votre choix.
+ Vous utiliserez également cet outil pour gérer vos différents projets.
+ 
+ 2. Installer Git sur votre machine et créer un compte Github pour vos différents projets.
  
  *Deadline: le 09/07/2019*
  
@@ -84,8 +86,8 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
   
   Consignes:
   
-  * Concevoir un CV en HTML/CSS qui pourra servir de PORFOLIO 
-  * Le publier sur Gitub Pages et le partager sur les RS
+  1. Concevoir un CV en HTML/CSS qui pourra servir de PORFOLIO 
+  2. Le publier sur Gitub Pages et le partager sur les RS
   
   Ressources: 
   
