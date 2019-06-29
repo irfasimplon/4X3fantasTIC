@@ -38,7 +38,7 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
 [https://www.hostinger.fr/tutoriels/tuto-git/]
  * Apprendre les rudiments de la ligne de commande bash shell [https://www.fun-mooc.fr/courses/course-v1:univ-reunion+128001+session01/about]
  
- [Les commandes de base du shell](commandes_de_bases.pdf) 
+  Les bases du shell: [Les commandes de base du shell](commandes_de_bases.pdf) 
  
  * Se debarrasser de sa souris :-) et devenir adepte des rarccourcis clavier : [Raccourcis clavier](raccourcis.pdf)
  
