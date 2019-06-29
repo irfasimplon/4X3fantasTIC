@@ -44,4 +44,8 @@ pour suivre aussi bien la progression de vos differents projets que l'évolution
  
  * Et pour la gestion de projet : [Kanban][https://blog.trello.com/fr/outil-conduite-de-projet]
 
+  # Phase2: HTML/CSS 09,11/07/2019
   
+  ## Les bases du HTML:
+  
+  1. [Pour commencer :](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML)
