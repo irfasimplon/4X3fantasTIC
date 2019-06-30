@@ -72,6 +72,11 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
   3. [Entrons dans le vif du sujet](https://www.w3schools.com/html/)
   Vous parcourrez le tutoriel depuis HTML HOME jusqu'à HTML API (si si ;-) ) 
   
+   # Restitution
+ 
+  A la suite de vos recherches, vous transmettez et confrontez vos découvertes en groupe et les présenterez avec un outil type Google     Slides ou Reveal.js (https://slides.com/)
+ 
+  
   ### Maintenant en tant que batisseurs exerçons nous: 
   
  (https://www.w3schools.com/html/exercise.asp)
@@ -85,6 +90,11 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
   1. [Introduction au CSS](https://developer.mozilla.org/fr/docs/Apprendre/CSS/Introduction_%C3%A0_CSS)
   2. [Le tutoriel CSS](https://www.w3schools.com/css/default.asp) A parcourir depuis Home CSS jusqu'à Css boite dimensionnement
   3. [Exercices CSS] (https://www.w3schools.com/css/exercise.asp)
+  
+   # Restitution
+ 
+  A la suite de vos recherches, vous transmettez et confrontez vos découvertes en groupe et les présenterez avec un outil type Google     Slides ou Reveal.js (https://slides.com/)
+ 
   
   ### L'évaluation CSS
    Voici l'évaluation concernant le CSS:
@@ -116,6 +126,11 @@ Continuez votre apprentissage avec le langage Javascript en suivant les ressourc
 1. Tutoriel Javascript : (https://www.w3schools.com/js/)
 2. JavaScript : (https://developer.mozilla.org/fr/docs/Apprendre/JavaScript)
 3. Exercices Javascript : (http://odyssey.sdlm.be/)
+
+# Restitution
+ 
+  A la suite de vos recherches, vous transmettez et confrontez vos découvertes en groupe et les présenterez avec un outil type Google Slides ou Reveal.js (https://slides.com/)
+ 
 
 ### L'évaluation Javascript: Générateur d'histoires absurdes
 
