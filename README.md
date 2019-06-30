@@ -111,3 +111,6 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
 
 # Phase3: JAVASCRIPT 18,19 /07/2019
 
+Continuez votre apprentissage avec le langage Javascript en suivant les ressources suivantes:
+
+1. Tutoriel Javascript : (https://www.w3schools.com/js/)
