@@ -1,6 +1,6 @@
 #  Hello les 4X3fantasTIC
 
-[center]![La team](4X3fantastic.jpg)[center]
+![La team](4X3fantastic.jpg)
 
 
 
