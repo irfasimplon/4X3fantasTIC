@@ -114,3 +114,12 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
 Continuez votre apprentissage avec le langage Javascript en suivant les ressources suivantes:
 
 1. Tutoriel Javascript : (https://www.w3schools.com/js/)
+2. JavaScript : (https://developer.mozilla.org/fr/docs/Apprendre/JavaScript)
+3. Exercices Javascript : (http://odyssey.sdlm.be/)
+
+### L'évaluation Javascript: Générateur d'histoires absurdes
+
+Générateur d'histoires absurdes:(https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/Silly_story_generator)
+
+
+
