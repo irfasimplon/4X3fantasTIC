@@ -23,7 +23,7 @@ Tout d'abord il vous faut des outils de batisseurs:
 
 Et d'autre part :
 
-* Vous allez vous familiarisez avec la ligne de commande (shell)
+* Vous allez vous familiariser avec la ligne de commande (shell)
 * Devenir un adepte des raccourcis clavier pour gagner en productivité et ergonomie
 
 Et par ailleurs : 
