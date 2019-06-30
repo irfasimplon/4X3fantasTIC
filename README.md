@@ -43,6 +43,8 @@ Et finalement, pour être constament à jour de votre *savoir* et *savoir faire*
 [https://www.hostinger.fr/tutoriels/tuto-git/]
  * Apprendre les rudiments de la ligne de commande bash shell [https://www.fun-mooc.fr/courses/course-v1:univ-reunion+128001+session01/about]
  
+ (https://www.grafikart.fr/formations/git)
+ 
   Les bases du shell: [Les commandes de base du shell](commandes_de_bases.pdf) 
  
  * Se debarrasser de sa souris :-) et devenir adepte des rarccourcis clavier : [Raccourcis clavier](raccourcis.pdf)
